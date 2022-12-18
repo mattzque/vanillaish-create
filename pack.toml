@@ -1,4 +1,4 @@
-name = "Vanillaish Create"
+name = "VanillaishCreate"
 author = "crew"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "682b6bf175314765ec9ae9c23b6ba14551fe49582363dee63c4c8eee514e3857"
+hash = "f97ae84f4f7b22a887b1fcef53de0a5ef90f21ac0b92ec1c6c6c967ee0399fe2"
 
 [versions]
-forge = "43.0.0"
+forge = "43.1.65"
 minecraft = "1.19.2"

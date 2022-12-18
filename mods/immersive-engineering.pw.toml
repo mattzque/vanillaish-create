@@ -1,0 +1,13 @@
+name = "Immersive Engineering"
+filename = "ImmersiveEngineering-1.19.2-9.1.0-156.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "56cc87462555661fca094b58ca492f6c3dee2d4c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4193176
+project-id = 231951
