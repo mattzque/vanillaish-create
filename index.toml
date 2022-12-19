@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "defaultconfig/immersiveengineering-server.toml"
+hash = "3486e109bcf79b60b7701fbf4d8e258629e772ffce97fbfb35b77c05caf0a1c9"
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "3e698ffbc78860ae3119156bacb6ab56ebcf1c11552a7fb3a8b16df85d2d5a59"
 metafile = true
@@ -16,6 +20,11 @@ hash = "7ecbf5bd076dcec257a31cbc5c0a6e0bd34e12fd29313c3cdbe9ac549d61fd1e"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "7888581aab75ca835f111ff4d8072e3c2aa4338c3b1bf5d760ca5a4df43b8dd0"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "1e0c0e86c3c211af539842ad1485fe408aa492bb0dc87eaac00fc10b3a80e5a3"
 metafile = true
@@ -28,6 +37,11 @@ metafile = true
 [[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "b33441b07f85bd9d3a7757020afcc01b80a44cc376b29475ed246b0f97ec7d11"
+metafile = true
+
+[[files]]
+file = "mods/flywheel.pw.toml"
+hash = "ed49d1174ac8961e62bdf07962e0dd3eb7178407939327980c03b114a6f63174"
 metafile = true
 
 [[files]]
