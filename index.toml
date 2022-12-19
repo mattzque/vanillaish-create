@@ -5,6 +5,11 @@ file = "defaultconfig/immersiveengineering-server.toml"
 hash = "3486e109bcf79b60b7701fbf4d8e258629e772ffce97fbfb35b77c05caf0a1c9"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ac9b3c98bdb67f1e72b5ab5d207fab6fad251be4e48b5c0a7e2f689209c7b897"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "3e698ffbc78860ae3119156bacb6ab56ebcf1c11552a7fb3a8b16df85d2d5a59"
 metafile = true
@@ -45,6 +50,11 @@ hash = "ed49d1174ac8961e62bdf07962e0dd3eb7178407939327980c03b114a6f63174"
 metafile = true
 
 [[files]]
+file = "mods/ftb-backups-2.pw.toml"
+hash = "34dc70eea48197ec508811477b1f7608b4526372ce0a288499c158808fa7bff3"
+metafile = true
+
+[[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "a09762f8f867b06b55b564bf8bc570a308c8610890b8680f91a44217c751a0e6"
 metafile = true
@@ -77,6 +87,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "e0cbe5dbdbece52f9471e318cabec09569b95c35ed72e568b015e2d9c5d3c9dc"
+metafile = true
+
+[[files]]
+file = "mods/polylib.pw.toml"
+hash = "5617cd09c1156295c3dcb279c1f68db0edad1e6233906f54f845480f748376fe"
 metafile = true
 
 [[files]]
