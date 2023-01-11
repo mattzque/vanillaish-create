@@ -66,12 +66,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "308b5db27efdb9f3a70a996660e153f67b4942d9524b3b8bb69b73933764e60a"
+hash = "9823677318de3ce0516d864f2be203e851ae3abf8254535cd099a7ea152beff1"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "2c8cae96cee6a41aff2c7006c970c918aa74a9f1060afe133be2e87efcaff71e"
+hash = "b4c8901c1a902e92c7711f21c7a26864586dde29a0caea3195227142a1182fb1"
 metafile = true
 
 [[files]]
@@ -100,6 +100,11 @@ hash = "d6a02b617d73812b20a2f8e483ea9791ecbf8de2649611bde123b6bb5d9ce365"
 metafile = true
 
 [[files]]
+file = "mods/storage-drawers.pw.toml"
+hash = "11332954f108106789ad818138a9b6ee0dd169a92b8763ae35d2d9ce88815c23"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
-hash = "353a0690b8d091e3289060b1030bd75adf483981837ec553f04f83d76ce8218e"
+hash = "64036b0bc617a33d904a0e6371ddc7d63896a888b1e0ada1a6eae8f647bb9327"
 metafile = true

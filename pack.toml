@@ -1,12 +1,12 @@
 name = "VanillaishCreate"
 author = "crew"
-version = "1.0.3"
+version = "1.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7b82e5138cb1b507a74c70ec4941368d4f83a5d972140cea7c070571bd774da7"
+hash = "8f6c98496d15aafcb0d4002ed39ef011efca8bc15faa75fef011a14ab32996d2"
 
 [versions]
 forge = "43.2.0"
