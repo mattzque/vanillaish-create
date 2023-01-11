@@ -20,6 +20,11 @@ hash = "3399cdd33b8ad969541b2f5a85de731185e5ee879e78d7fd26ab677e2d8189f4"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "d3772ba304230f9b7f1c62ea44e1b65dd08927f1fa1170817d2665baa8c9951b"
+metafile = true
+
+[[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
 hash = "7ecbf5bd076dcec257a31cbc5c0a6e0bd34e12fd29313c3cdbe9ac549d61fd1e"
 metafile = true
@@ -72,6 +77,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "b4c8901c1a902e92c7711f21c7a26864586dde29a0caea3195227142a1182fb1"
+metafile = true
+
+[[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "f43d81c21ee75f1ca04865958e5c3da4971f0ff824b82359e85ce5f765a9b92f"
 metafile = true
 
 [[files]]
